@@ -29,7 +29,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: []()
+- Solution URL: [https://www.frontendmentor.io/solutions/3column-preview-card-component-Gyv4l9OOIT](https://www.frontendmentor.io/solutions/3column-preview-card-component-Gyv4l9OOIT)
 - Live Site URL: [https://dublop.github.io/3-column-preview-card-component/](https://dublop.github.io/3-column-preview-card-component/)
 
 ## My process
