@@ -28,7 +28,7 @@ main {
     display: grid;
     place-items: center;
     width: 100vw;
-    height: 100vh;
+    height: auto;
     padding: 4rem 0;
     font-size: var(--sm);
     font-weight: 400;
@@ -124,6 +124,10 @@ main {
 }
 /*Media queries*/
 @media (min-width: 1000px) {
+    main {
+        width: 100vw;
+        height: 100vh;
+    }
     .cards-container {
         width: 100%;
         max-width: 900px;
